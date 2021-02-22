@@ -11,6 +11,6 @@ created by james jack 2021
 
 	degrees.py-converts radians to degress maually and uses the included module 
 
-	factorial.py-calcs factorial manually and uses incldues function 
+	factorial.py-calcs factorial manually and uses included function 
 
 	
